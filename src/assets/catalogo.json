@@ -1,0 +1,40 @@
+{
+    "oferta": [
+        {
+            "nombre": "Teja",
+            "img": "",
+            "clase": "",
+            "descripcion":"Esta es una pequeña descripcion"
+        },
+        {
+            "nombre": "Teja",
+            "img": "",
+            "clase": "",
+            "descripcion":"Esta es una pequeña descripcion"
+        },
+        {
+            "nombre": "Teja",
+            "img": "",
+            "clase": "",
+            "descripcion":"Esta es una pequeña descripcion"
+        },
+        {
+            "nombre": "Teja",
+            "img": "",
+            "clase": "",
+            "descripcion":"Esta es una pequeña descripcion"
+        },
+        {
+            "nombre": "Teja",
+            "img": "",
+            "clase": "",
+            "descripcion":"Esta es una pequeña descripcion"
+        },
+        {
+            "nombre": "Teja",
+            "img": "",
+            "clase": "",
+            "descripcion":"Esta es una pequeña descripcion"
+        }
+    ]
+}
